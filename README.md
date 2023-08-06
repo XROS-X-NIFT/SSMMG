@@ -1,2 +1,1 @@
-# SSMMG
-Smart Sewing Machine Maintenance Guide
+# SSMMG Smart Sewing Machine Maintenance Guide
