@@ -1,6 +1,6 @@
 # SSMMG | Smart Sewing Machine Maintenance Guide
 
-![image](https://github.com/XROS-X-NIFT/SSMMG/assets/68684226/43524fbf-eef9-4dcd-ac04-cf6c8d834506)
+![start](https://github.com/XROS-X-NIFT/SSMMG/assets/68684226/d15b97d6-c4c2-433e-9aaa-3183a7db56e5)
 
 ## About
 
