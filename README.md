@@ -38,7 +38,7 @@ It was a 3-Month extended team project under the mentorship of excellent profess
 
 
 ## Resources 
-* [Final Project File (UE 5.0.3) ](https://drive.google.com/file/d/1lBR6M4iE_bS65dM8P2kY6t3KqMlhspxr/view?usp=sharing)
+* [Final Project File](https://drive.google.com/file/d/1lBR6M4iE_bS65dM8P2kY6t3KqMlhspxr/view?usp=sharing)
 
 ## Developpers
 * [Vibhanshu Singh Sindhu](https://github.com/vibhanshusindhu)
