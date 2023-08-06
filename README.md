@@ -34,7 +34,7 @@ It was a 3-Month extended team project under the mentorship of excellent profess
 - [x] Human interaction with virtual objects should be accurate and smooth.
 - [x] Smooth Hand interaction with the machine parts.
 - [x] As much Interaction with the machine and its parts as possible.
-- [ ] Simulation should have voice instructions and multiple language support.
+- [ ] Simulation should have voice instructions and multiple languages support.
 
 
 ## Resources 
