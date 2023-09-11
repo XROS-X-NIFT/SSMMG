@@ -40,7 +40,7 @@ It was a 3-Month extended team project under the mentorship of excellent profess
 ## Resources 
 * [Final Project File](https://drive.google.com/file/d/1lBR6M4iE_bS65dM8P2kY6t3KqMlhspxr/view?usp=sharing)
 
-## Developpers
+## Developers
 * [Vibhanshu Singh Sindhu](https://github.com/vibhanshusindhu)
 * [Ashish Kumar](https://github.com/Ashish11828)
 
